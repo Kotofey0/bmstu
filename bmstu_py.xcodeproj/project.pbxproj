@@ -6,10 +6,29 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		E22A617B1BBE789500E8B318 /* main.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
+		E22A617C1BBE799700E8B318 /* audio_counter.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = audio_counter.py; sourceTree = "<group>"; usesTabs = 1; };
+		E22A617D1BBE799700E8B318 /* bmstu.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = bmstu.py; sourceTree = "<group>"; };
+		E22A617F1BBE879B00E8B318 /* user_auth.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = user_auth.py; sourceTree = "<group>"; };
+		E29BA1921BC5B7F900D314E6 /* sort_files.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = sort_files.py; sourceTree = "<group>"; };
+		E2F8F3ED1BBEDDE900D58BD2 /* create_articles_dump.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = create_articles_dump.py; sourceTree = "<group>"; };
+		E2F8F3EE1BBEE6EB00D58BD2 /* blog_builder.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = blog_builder.py; sourceTree = "<group>"; };
+		E2F8F3EF1BBEF21100D58BD2 /* articles_generator.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = articles_generator.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		E22A616F1BBE76FA00E8B318 = {
 			isa = PBXGroup;
 			children = (
+				E22A617B1BBE789500E8B318 /* main.py */,
+				E29BA1921BC5B7F900D314E6 /* sort_files.py */,
+				E2F8F3EF1BBEF21100D58BD2 /* articles_generator.py */,
+				E2F8F3EE1BBEE6EB00D58BD2 /* blog_builder.py */,
+				E2F8F3ED1BBEDDE900D58BD2 /* create_articles_dump.py */,
+				E22A617C1BBE799700E8B318 /* audio_counter.py */,
+				E22A617D1BBE799700E8B318 /* bmstu.py */,
+				E22A617F1BBE879B00E8B318 /* user_auth.py */,
 			);
 			sourceTree = "<group>";
 		};
@@ -163,6 +182,7 @@
 				E22A61791BBE76FB00E8B318 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

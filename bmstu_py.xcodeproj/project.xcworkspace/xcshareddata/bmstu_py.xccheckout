@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D238F9BD-C15A-488C-9078-0EF8518EE885</string>
+	<key>IDESourceControlProjectName</key>
+	<string>bmstu_py</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5A93EAD1-85FC-4AA2-9E02-B86AE3A52190</key>
+		<string>https://github.com/Kotofey0/helloworld.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>bmstu_py.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5A93EAD1-85FC-4AA2-9E02-B86AE3A52190</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Kotofey0/helloworld.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5A93EAD1-85FC-4AA2-9E02-B86AE3A52190</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5A93EAD1-85FC-4AA2-9E02-B86AE3A52190</string>
+			<key>IDESourceControlWCCName</key>
+			<string>bmstu_py</string>
+		</dict>
+	</array>
+</dict>
+</plist>
